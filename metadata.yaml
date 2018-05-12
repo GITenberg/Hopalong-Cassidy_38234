@@ -1,0 +1,29 @@
+_repo: Hopalong-Cassidy_38234
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mulford, Clarence Edward
+    alias: Mulford, Clarence E.
+    birthdate: 1883
+    deathdate: 1956
+    gutenberg_agent_id: '962'
+    url: http://www.gutenberg.org/2009/agents/962
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cassidy, Hopalong (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Hopalong Cassidy
+url: http://www.gutenberg.org/ebooks/38234
